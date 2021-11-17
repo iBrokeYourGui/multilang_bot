@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2021-11-17 10:47+0300\n"
+"POT-Creation-Date: 2021-11-17 11:43+0300\n"
 "PO-Revision-Date: 2021-11-17 10:49+0300\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: ru\n"
@@ -49,5 +49,21 @@ msgstr ""
 
 #: keyboards/main_keyboard.py:10
 msgid "Удалить клавиатуру"
+msgstr ""
+
+#: utils/set_bot_commands.py:8
+msgid "Запуск бота"
+msgstr ""
+
+#: utils/set_bot_commands.py:9
+msgid "Вывести справку"
+msgstr ""
+
+#: utils/set_bot_commands.py:10
+msgid "Выбрать язык"
+msgstr ""
+
+#: venv/lib/python3.9/site-packages/isort/main.py:158
+msgid "show this help message and exit"
 msgstr ""
 
